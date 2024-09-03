@@ -7,6 +7,7 @@ This document complements the paper "[Developing Process Scheduling Policies in 
 ## Materials
 
 - Paper: https://dl.acm.org/doi/10.1145/3678015.3680481
+- Slides: https://yasukata.github.io/presentation/2024/09/apsys2024/apsys24_slides_yasukata.pdf
 - Networked server implementation used in the experiments
   - Benchmark program: https://github.com/yasukata/bench-iip
   - TCP/IP stack: https://github.com/yasukata/iip
